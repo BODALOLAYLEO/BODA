@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-34 -34 78 66" fill="none"><defs>
+<linearGradient id="sageG" x1="0" y1="572" x2="0" y2="906" gradientUnits="userSpaceOnUse">
+  <stop offset="0" stop-color="#70856A"/><stop offset=".5" stop-color="#6B7F64"/><stop offset="1" stop-color="#65795E"/>
+</linearGradient>
+<linearGradient id="rimG" x1="0" y1="560" x2="0" y2="918" gradientUnits="userSpaceOnUse">
+  <stop offset="0" stop-color="#FFFFFF"/><stop offset=".5" stop-color="#F4EFE6"/><stop offset="1" stop-color="#FBF9F4"/>
+</linearGradient>
+<filter id="bandShadow" x="-5%" y="-30%" width="110%" height="160%" color-interpolation-filters="sRGB">
+  <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#3E3020" flood-opacity=".24"/>
+</filter>
+<filter id="iconShadow" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
+  <feDropShadow dx="0" dy="1" stdDeviation=".8" flood-color="#2E2414" flood-opacity=".28"/>
+</filter>
+</defs><g transform="translate(0,0)" fill="none" stroke="#A47C38" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" filter="url(#iconShadow)"><circle cx="-10" cy="8" r="17"/><circle cx="11" cy="1" r="17"/><path d="M-10,-9 L-17,-16.5 L-13.5,-21.5 L-6.5,-21.5 L-3,-16.5 Z M-17,-16.5 L-3,-16.5 M-10,-9 L-12,-16.5 M-10,-9 L-8,-16.5"/><path d="M24,-17 L27.5,-21.5 M28,-9 L33,-10 M19,-22 L18.5,-27"/></g></svg>
