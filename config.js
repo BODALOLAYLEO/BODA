@@ -9,7 +9,7 @@ window.BODA = {
 
   // Horas que se muestran en la página
   horaCivil: "18:00",
-  horaCena: "20:00",
+  horaCena: "19:30",
 
   // Formulario de asistencia (Microsoft Forms)
   formulario:
