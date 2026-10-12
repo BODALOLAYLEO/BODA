@@ -20,7 +20,7 @@ window.BODA = {
   // Si "numero" está vacío, la tarjeta muestra "muy pronto" y desactiva los botones.
   whatsapp: {
     lola: { nombre: "Lola Patricia", numero: "59179026328" },
-    leonardo: { nombre: "Leonardo", numero: "" }
+    leonardo: { nombre: "Leonardo", numero: "59162098737" }
   },
 
   // Música de fondo: coloca tu archivo en  musica/musica.mp3  (si no existe, el botón se oculta)
